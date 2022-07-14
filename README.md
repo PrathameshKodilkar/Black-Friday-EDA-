@@ -6,6 +6,6 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
-# :arrow_right: I have done the EDA & Feature Engineering part on the dataset. Model Training is a assignment for whoever going through this notebook. :smile:
+# :arrow_right: I have done the EDA & Feature Engineering part on the dataset. Model Training is a assignment for whoever is going through this notebook. :smile:
 
 ## :heartbeat: You can find me on LinkedIn - https://www.linkedin.com/in/prathamesh-kodilkar-727559231/
